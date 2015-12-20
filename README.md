@@ -19,8 +19,8 @@ To follow the example, below is the pseudo code. Clone the code to your git prof
        - 1. Values are cleared from display fields.
        - 2. Values are stored in Storage.
        - 3. Prompted to close and open the window again.
- // For the opening the window again,. 
-        //1. Window is prepopulated with the values of the form fields.
-        //2. Button to clear the storage is provided for the user.
- // ----------- Session Storage -------------.
- // Same scenario is executed and confirm that it does not store the values.Use app1.js.
+ -  For the opening the window again,. 
+        - 1. Window is prepopulated with the values of the form fields.
+        - 2. Button to clear the storage is provided for the user.
+ - ----------- Session Storage -------------.
+ - Same scenario is executed and confirm that it does not store the values.Use app1.js.
