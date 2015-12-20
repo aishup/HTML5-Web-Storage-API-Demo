@@ -21,6 +21,7 @@ To follow the example, below is the pseudo code. Clone the code to your git prof
        - 3. Prompted to close and open the window again.
  -  When the window is opened again, 
        - 1. Window is prepopulated with the values of the form fields.
-       - 2. Button to clear the storage is provided for the user.
  - ----------- Session Storage -------------.
  - Same scenario is executed and confirm that it does not store the values.Use app1.js.
+ 
+Further Information refer : https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API
