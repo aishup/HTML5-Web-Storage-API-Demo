@@ -19,7 +19,7 @@ To follow the example, below is the pseudo code. Clone the code to your git prof
        - 1. Values are cleared from display fields.
        - 2. Values are stored in Storage.
        - 3. Prompted to close and open the window again.
- -  For the opening the window again,. 
+ -  When the window is opened again,. 
         - 1. Window is prepopulated with the values of the form fields.
         - 2. Button to clear the storage is provided for the user.
  - ----------- Session Storage -------------.
